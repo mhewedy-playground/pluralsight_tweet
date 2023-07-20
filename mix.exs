@@ -22,7 +22,8 @@ defmodule PluralsightTweet.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:credo, "~> 1.2"}
+      {:credo, "~> 1.2"},
+      {:quantum, "~> 3.5.0"}
     ]
   end
 end
