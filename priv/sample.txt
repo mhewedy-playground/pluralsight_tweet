@@ -1,7 +1,7 @@
 This is a very long line This is a very long line This is a very long line This is a very long line This is a very long line This is a very long line This is a very long line
 
-Let's talk about Macros
-Let's talk about Homoiconicity
+Let's talk about Macros ✓
+Let's talk about Homoiconicity ✓
 Let's talk about Pipe operator
 Let's talk about tail recursion
 Let's talk about Everything is an expression
