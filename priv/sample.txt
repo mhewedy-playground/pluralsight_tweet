@@ -4,4 +4,7 @@ Let's talk about Macros
 Let's talk about Homoiconicity
 Let's talk about Pipe operator
 Let's talk about tail recursion
-
+Let's talk about Everything is an expression
+Let's talk about Immutable data (Persistent data structures)
+Let's talk about Doc Test
+Let's talk about Actors (multiple posts)
