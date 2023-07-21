@@ -24,7 +24,6 @@ defmodule PluralsightTweet.MixProject do
     [
       {:credo, "~> 1.2"},
       {:quantum, "~> 3.5.0"},
-      {:extwitter, "~> 0.14.0"}
     ]
   end
 end
